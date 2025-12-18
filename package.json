@@ -1,0 +1,23 @@
+{
+  "name": "datacore",
+  "version": "1.0.0",
+  "description": "Este programa backend tiene como finalidad poder manejar mulitples drivers de motores de base de datos para proporcionar conexiones seguras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urielxdov/DataCore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Urielxdov/DataCore/issues"
+  },
+  "homepage": "https://github.com/Urielxdov/DataCore#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
